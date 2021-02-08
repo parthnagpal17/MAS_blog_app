@@ -5,8 +5,11 @@
 - Change your directory to the “new” folder
 - Check if npm is installed on the computer and if it is not please do so
 - Run npm install
+- Open another terminal window and go to the directory 'jsonserver' and run command: npm run db
+- Open another terminal window and go to the directory 'jsonserver' and run command: npm run tunnel
+- Copy paste the link generated in the last step to the axios instance inside 'jsonServer.js'file inside 'Api' inside 'new'
 - Use Npm start to run the app
-- This takes you to a google screen where the QR code is available to scan from phone 
+- This takes you to a google screen where the QR code is available to scan from phone Expo app
 - Once this is done, you can create a personal blog or note taking app.
 
 ## Once running
