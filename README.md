@@ -11,3 +11,10 @@
 
 ## Once running
 Once you get the QR code and go to the app, you should be presented with the following screen:
+
+
+![Test Image 1](https://github.com/parthnagpal17/MAS_blog_app/blob/master/images/blogentry.jpg)
+
+And the list of your blogs should also appear here:
+
+![image2](https://github.com/parthnagpal17/MAS_blog_app/blob/master/images/thumbnail_Screenshot_20210208-203640_Expo%20Go.jpg)
