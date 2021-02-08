@@ -47,10 +47,10 @@ ShowScreen.navigationOptions = ({navigation}) => {
     return {
         headerRight : () => (
         <TouchableOpacity onPress={()=>{navigation.navigate('EditScreen', {id: navigation.getParam('id')})}}>
-            <EvilIcons name="pencil" size={35}></EvilIcons>
+            <EvilIcons name="ei-pencil" size={35}></EvilIcons>
         </TouchableOpacity>
         )
     }
 }
 
-export default ShowScreen;
+export default ShowScreen
