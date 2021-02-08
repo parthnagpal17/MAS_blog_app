@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
         paddingHorizontal : 15
     },
     title: {
-        fontSize: 18
+        fontSize: 22
     },
 
     icon : {

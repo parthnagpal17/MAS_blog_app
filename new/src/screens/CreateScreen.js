@@ -27,17 +27,17 @@ const CreateScreen = ( {navigation} ) => {
 
 const styles = StyleSheet.create({
     input : {
-        fontSize : 18,
+        fontSize : 20,
         borderWidth : 1,
         borderColor : 'black',
-        marginBottom: 10,
-        marginHorizontal : 10,
+        marginBottom: 15,
+        marginHorizontal : 5,
     },
 
     label : {
         fontSize : 20,
-        marginBottom: 10,
-        marginHorizontal : 10
+        marginBottom: 115,
+        marginHorizontal : 5
 
     }
 })

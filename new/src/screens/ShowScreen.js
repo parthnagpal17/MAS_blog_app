@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         textDecorationColor: "black",
         marginBottom: 15,
-        marginTop: 10,
+        marginTop: 5,
         fontWeight: 'bold'
     },
     content : {
